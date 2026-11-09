@@ -1,0 +1,8 @@
+# dataset (download from the authors, see README) and generated files
+data/
+build/
+firedet
+*.o
+__pycache__/
+*.pyc
+model/*.pt
